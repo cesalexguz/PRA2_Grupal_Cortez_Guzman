@@ -46,3 +46,6 @@ Si lo abre desde R Studio, abrir el archivo PRA2_Grupal_Cortez_Guzman.Rmd y visu
 ![image](https://user-images.githubusercontent.com/27928138/147798648-224bfb6d-55a9-44f7-a56a-101b1c5a5eb9.png)
 
 
+## Recursos
+  - Guitart Hormigo, I. (2019). Introducción a la limpieza y análisis de los datos. In L. Subirats Maté, D. O. Pérez Trenard, & M. Calvo González. Barcelona: UOC.
+  - Guitart Hormigo, I. (2019). Introducción al ciclo de vida de los datos. In L. Subirats Maté, D. O. Pérez Trenard, & M. Calvo González. Barcelona: UOC.
