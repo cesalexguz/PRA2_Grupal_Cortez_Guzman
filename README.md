@@ -46,6 +46,16 @@ Si lo abre desde R Studio, abrir el archivo PRA2_Grupal_Cortez_Guzman.Rmd y visu
 ![image](https://user-images.githubusercontent.com/27928138/147798648-224bfb6d-55a9-44f7-a56a-101b1c5a5eb9.png)
 
 
+### Dataset
+
+Se puede ir al dataset subido en Zenodo con este link:
+https://zenodo.org/record/5811072#.Yc5scWjMKUl
+
+### Video
+
+Se ver el video con este link, pero se requiere una cuenta de la UOC:
+https://drive.google.com/file/d/1byciERfvTahT7mTOdDGQ1Fdcfaqn2Qnb/view?usp=sharing
+
 ## Recursos
   - Guitart Hormigo, I. (2019). Introducción a la limpieza y análisis de los datos. In L. Subirats Maté, D. O. Pérez Trenard, & M. Calvo González. Barcelona: UOC.
   - Guitart Hormigo, I. (2019). Introducción al ciclo de vida de los datos. In L. Subirats Maté, D. O. Pérez Trenard, & M. Calvo González. Barcelona: UOC.
